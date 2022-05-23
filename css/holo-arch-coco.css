@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    background-color: orangered;
+    font-family: 'Calibri';
+    font-size: 20px;
+    line-height: 30px;
+}
+
+h1, h2{
+    font-family: 'Broadway', 'Arial Black';
+}
+header{
+    background-color: orange;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+header h1{
+    color: rebeccapurple;
+    font-size: 70px;
+    margin-top: 0px;
+}
+
+header img{
+    border-radius: 200px;
+    border: 20px solid darkviolet;
+}
+
+main{
+    max-width: 800px;
+    margin: 10px auto;
+    margin-bottom: 0px;
+    padding: 10px 40px;
+}
+
+
+main img{
+    max-width: 90%;
+    border: 20px solid darkviolet;
+}
+
+h2{
+    font-size: 40px;
+    color: purple;
+}
+
+a{
+    color: darkmagenta
+}
+a:hover{
+    color:black;
+    background-color: gold;
+}
+ol{
+    font-size: 25px;
+    font-style: bold;
+}
+
+
+ul{
+    color: lightblue;
+    font-size: 25px;
+}
+
+footer{
+    background-color: whitesmoke;
+    text-align: center;
+    padding-bottom: 30px;
+    color: blue;
+}
+footer p{
+    margin: 0;
+}
+footer a{
+    color: rgb(47, 144, 255);
+}
+footer a:hover{
+    opacity: .5;
+    background-color: transparent;
+}
+p.caption{
+    color: white;
+    font-size: 15px;
+    font-style: italic;
+    margin: 0px;
+}
