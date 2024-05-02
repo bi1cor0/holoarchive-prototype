@@ -16,23 +16,17 @@ header{
     padding-bottom: 20px;
 }
 
-header h1{
+h1{
     color: rebeccapurple;
     font-size: 70px;
     margin-top: 0px;
 }
 
-header img{
+img{
     border-radius: 200px;
     border: 20px solid darkviolet;
 }
 
-main{
-    max-width: 800px;
-    margin: 10px auto;
-    margin-bottom: 0px;
-    padding: 10px 40px;
-}
 
 
 main img{
@@ -58,27 +52,7 @@ ol{
 }
 
 
-ul{
-    color: lightblue;
-    font-size: 25px;
-}
 
-footer{
-    background-color: whitesmoke;
-    text-align: center;
-    padding-bottom: 30px;
-    color: blue;
-}
-footer p{
-    margin: 0;
-}
-footer a{
-    color: rgb(47, 144, 255);
-}
-footer a:hover{
-    opacity: .5;
-    background-color: transparent;
-}
 p.caption{
     color: white;
     font-size: 15px;
