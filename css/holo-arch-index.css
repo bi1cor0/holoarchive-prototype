@@ -1,6 +1,10 @@
 .main-content, footer {
     padding: 15px; text-align: center;}
 
+    h1, h3{
+        font-family: 'Broadway', 'Arial Black';
+    }
+
 .nav-gifs 
 {
     width: 1270px;
