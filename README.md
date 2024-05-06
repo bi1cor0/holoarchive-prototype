@@ -1,17 +1,17 @@
 # The Holo Archive Project
-<p>This project pertains to the vtuber streamer company known as Hololive Productions. <br>
+This project pertains to the vtuber streamer company known as Hololive Productions. <br>
  [What is a Vtuber?](https://en.wikipedia.org/wiki/VTuber "A comprehensive guide on vtubers") <br>
  [What is Hololive?](https://www.youtube.com/watch?v=0HIBDGni1-o "YouTube Video: Hololive in 5 Minutes") 
- </p>
+ 
 
  ### Tools Used to Build
  - HTML, CSS, Bootstrap, Flexbox
 
 ## Overview
-<p>I am a big fan of Hololive Productions ever since the middle of the Pandemic. The talents and streamers have not only given me great enjoyment and happiness over the years, but also a sense of community and inspiration in a turbulent time. In shourt, I've spent a lot of time engrossed in this very happy sect of the internet. And as such, I wanted to create a sort of an online diving board into the Hololive talents, and in turn the community itself. While other, more comprehensive and professional sites do exist: <br>
+I am a big fan of Hololive Productions ever since the middle of the Pandemic. The talents and streamers have not only given me great enjoyment and happiness over the years, but also a sense of community and inspiration in a turbulent time. In shourt, I've spent a lot of time engrossed in this very happy sect of the internet. And as such, I wanted to create a sort of an online diving board into the Hololive talents, and in turn the community itself. While other, more comprehensive and professional sites do exist: <br>
 [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page)<br>
 [Official Hololive Productions Website](https://hololivepro.com/en/)<br>
-I mainly created my own website as a small project into web development. But also, I wanted to create a site that would mainly showcase and archive the in-jokes, special memorable moments, and memes the talents produce. Discovering these moments are what got me into the Hololive fandom in the first place. As the personality of the talents shown through during these moments, they made me smile. And that is how I got dragged into this deep rabbit-hole in the first place. </p>
+I mainly created my own website as a small project into web development. But also, I wanted to create a site that would mainly showcase and archive the in-jokes, special memorable moments, and memes the talents produce. Discovering these moments are what got me into the Hololive fandom in the first place. As the personality of the talents shown through during these moments, they made me smile. And that is how I got dragged into this deep rabbit-hole in the first place. 
 
 ## Features
 I'm not starting off with the entirety of Hololive right now. But only with Hololive's 4th generation of talent. Or, in other words, Hololive's fourth 5 member group of vtuber streamers. The reason why I chose the 4th Gen is because of the one that dragged me into the rabbit-hole in the first place: Hololive's very own dragon vtuber, Kiryu Coco. I first wanted to create a page that showcased Coco's best moments and jokes, in honor of her graduation from the company. And in doing so, I decided to go forward with her 4 other genmates as well, as they are all very close to one another. And are also very interesting themselves. <br>
